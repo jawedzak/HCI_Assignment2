@@ -16,3 +16,11 @@ screenshots of CovidAlertsCan:
 ![Chat](https://user-images.githubusercontent.com/71908541/98756179-0b81f700-2398-11eb-9fb3-d3cef52fe7c5.PNG)
 ![OntStats](https://user-images.githubusercontent.com/71908541/98756270-35d3b480-2398-11eb-8158-fc487da8d0d3.PNG)
 ![Form](https://user-images.githubusercontent.com/71908541/98756337-5bf95480-2398-11eb-9044-2d0df49e7290.PNG)
+
+
+Top five desireable functionalities:
+1- Format Fonts, Icons & Interactive Elements with the User In Mind
+2- Avoid Complex Navigational Elements
+3- Sound adjustment
+4- Eye detector
+5- Cues, Noises and reminders
