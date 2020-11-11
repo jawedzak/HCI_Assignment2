@@ -19,8 +19,13 @@ screenshots of CovidAlertsCan:
 
 
 Top five desireable functionalities:
+
 1- Format Fonts, Icons & Interactive Elements with the User In Mind
+
 2- Avoid Complex Navigational Elements
+
 3- Sound adjustment
+
 4- Eye detector
+
 5- Cues, Noises and reminders
